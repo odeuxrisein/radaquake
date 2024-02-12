@@ -14,20 +14,7 @@ Introducing Radaquake, a revolutionary decentralized seismic monitoring system b
 
 Radaquake envisions a world where lives are safeguarded through decentralized seismic monitoring. By harnessing the power of the Internet Computer Protocol, our project strives to create a seismic alert system that transcends geographical boundaries, ensuring timely warnings reach vulnerable communities. The vision is to save lives globally by empowering individuals with real-time data, fostering preparedness, and mitigating the impact of earthquakes. Radaquake aspires to be a catalyst for positive change, leveraging blockchain technology to make a significant and lasting impact on the way we respond to seismic threats, ultimately contributing to a safer and more resilient world.
 
-## Project Roadmap
-
-- ICP (IC-sdk) and .dfx
-- Use wallets (Phantom)
-
-## The Tech We Use
-
-Rust & Web3 
-
-## Smart Contract Address
-
-XXXXXXXXXXXXXX
-
-## Setup Environment
+## Project Roadmap / Future Plans
 
 Software Development Plan for Radaquake:
 
@@ -60,3 +47,52 @@ Deployment:
 
 Deploy the Radaquake application on the Internet Computer Protocol.
 Monitor and maintain the system post-deployment, ensuring continuous functionality and responsiveness.
+
+## The Tech We Use
+
+Rust & Web3 
+
+## Smart Contract Address
+
+XXXXXXXXXXXXXX
+
+## Setup Environment
+
+Overview
+Radaquake is a decentralized seismic monitoring system built on the Internet Computer Protocol (ICP). This project aims to provide real-time seismic data and alerts, enhancing global earthquake preparedness.
+
+Installation
+Follow these steps to install and deploy Radaquake on your local machine:
+
+Prerequisites
+Ensure you have the DFINITY Canister SDK installed.
+Set up an Internet Computer wallet.
+Clone the Repository
+
+
+git clone https://github.com/your-username/radaquake.git
+cd radaquake
+Install Dependencies
+
+npm install
+Build the Project
+
+npm run build
+Deploy to Internet Computer
+
+dfx deploy
+Access the Radaquake Dapp
+Visit the provided canister ID after a successful deployment to access the Radaquake decentralized application.
+
+Configuration
+Adjust alert thresholds, SMS services, and other settings in the config.js file.
+
+Contributing
+We welcome contributions! Please check out our Contribution Guidelines for details on how to contribute to the project.
+
+License
+This project is licensed under the MIT License.
+
+Acknowledgments
+The Radaquake team extends gratitude to the Internet Computer Protocol community for their support.
+
