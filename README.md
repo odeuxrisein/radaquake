@@ -1,6 +1,6 @@
 # Radaquake
 
-Project Visual
+![Team Logo](https://github.com/Rise-In/example_readMe/blob/main/Example_logo%20.png)
 
 ## Individual
 
